@@ -1,3 +1,4 @@
+iam giri krishnan ; this is my programme
 # include<stidio.h>
 #include<conio.h>
 int main (void){
